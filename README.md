@@ -37,4 +37,4 @@ Distributed under the MIT License. See [LICENSE](https://github.com/Cheetah0723/
 
 ## Contact Me
 
-Email Me: support@minimals.cc
+Email Me: iyuki723@gmail.com
