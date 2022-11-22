@@ -33,8 +33,8 @@
 
 ## License
 
-Distributed under the MIT License. See [LICENSE](https://github.com/minimal-ui-kit/minimal.free/blob/main/LICENSE.md) for more information.
+Distributed under the MIT License. See [LICENSE](https://github.com/Cheetah0723/React-Material-Kit/blob/master/LICENSE.md) for more information.
 
-## Contact us
+## Contact Me
 
-Email Us: support@minimals.cc
+Email Me: support@minimals.cc
